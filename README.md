@@ -20,3 +20,6 @@ The website developed in this project focuses on essential features such as prod
 Furthermore, the project emphasizes scalability and adaptability. As business requirements grow, additional features like recommendation systems, AI-based chat support, advanced analytics, and inventory automation can be integrated. Therefore, this E-Commerce Website is not just a static project but a foundation for future enhancements and innovation.
 
 In conclusion, the E-Commerce Website successfully fulfills its objective of creating a digital marketplace that is efficient, reliable, and user-centric. It reflects how technology can simplify buying and selling processes while improving customer satisfaction and operational productivity.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ba7ac0db-f807-4c45-9523-53007de5495e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7eda0214-3504-4cc9-85ee-5fe1c45d80ae" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d77edae1-c789-4e92-b057-fa8a4976ecbd" />
